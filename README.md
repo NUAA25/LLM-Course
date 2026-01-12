@@ -362,31 +362,3 @@ class DataLoader:
 症状：图表无法保存或显示
 
 解决：确保输出目录存在且有写入权限
-
-# 十二、贡献指南
-
-欢迎贡献代码！请遵循以下步骤：
-
-(1)Fork本仓库
-
-(2)创建功能分支 (git checkout -b feature/AmazingFeature)
-
-(3)提交更改 (git commit -m 'Add some AmazingFeature')
-
-(4)推送到分支 (git push origin feature/AmazingFeature)
-
-(5)开启Pull Request
-
-# 十五、联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-项目地址：[GitHub Repository URL]
-电子邮件：[renshuang@nuaa.edu.cn]
-
-项目状态：活跃开发中
-最后更新：2026年1月
-
-版本：3.0
-
-
